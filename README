@@ -1,6 +1,10 @@
-This code is an example of using the pycrypto API.
+This code is an example of using the pycrypto API:
+https://github.com/dlitz/pycrypto.git
 
-It is a simple flat file database with simple commands.
+It is a simple flat file database with simple commands.  This is not meant to be taken more than an example of using the pycrypto api.  The password to the sample secret.dat is 'password'.
+
+I wrote a blog post about this example:
+blog.bleegfeed.com/2010/08/11/quick-aes-encrypted-database-with-pycrypto
 
 This code is released:
 LGPL 3.0 Geoffery L. Miller
